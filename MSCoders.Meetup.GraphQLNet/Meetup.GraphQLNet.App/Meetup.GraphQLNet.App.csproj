@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GraphQL" Version="2.0.0-alpha-859" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Meetup.GraphQLNet.DataAccess\Meetup.GraphQLNet.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

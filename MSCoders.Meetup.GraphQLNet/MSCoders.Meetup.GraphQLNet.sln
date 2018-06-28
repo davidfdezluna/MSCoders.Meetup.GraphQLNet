@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meetup.GraphQLNet.Domain", "Meetup.GraphQLNet.Domain\Meetup.GraphQLNet.Domain.csproj", "{D9C29E41-D5A6-4990-BF57-45D712D36757}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meetup.GraphQLNet.DataAccess", "Meetup.GraphQLNet.DataAccess\Meetup.GraphQLNet.DataAccess.csproj", "{054FC922-BFD5-4F6E-84A0-EE31FCBD21E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meetup.GraphQLNet.App", "Meetup.GraphQLNet.App\Meetup.GraphQLNet.App.csproj", "{D7997D7C-C82B-4133-BFD9-872609D835A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meetup.GraphQLNet.API", "Meetup.GraphQLNet.API\Meetup.GraphQLNet.API.csproj", "{D392B1F2-9575-4979-87E7-D69CDC4391C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C29E41-D5A6-4990-BF57-45D712D36757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C29E41-D5A6-4990-BF57-45D712D36757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C29E41-D5A6-4990-BF57-45D712D36757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C29E41-D5A6-4990-BF57-45D712D36757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054FC922-BFD5-4F6E-84A0-EE31FCBD21E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054FC922-BFD5-4F6E-84A0-EE31FCBD21E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054FC922-BFD5-4F6E-84A0-EE31FCBD21E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054FC922-BFD5-4F6E-84A0-EE31FCBD21E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7997D7C-C82B-4133-BFD9-872609D835A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7997D7C-C82B-4133-BFD9-872609D835A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7997D7C-C82B-4133-BFD9-872609D835A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7997D7C-C82B-4133-BFD9-872609D835A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D392B1F2-9575-4979-87E7-D69CDC4391C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D392B1F2-9575-4979-87E7-D69CDC4391C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D392B1F2-9575-4979-87E7-D69CDC4391C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D392B1F2-9575-4979-87E7-D69CDC4391C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5714DB29-C6ED-4DE1-B3C4-515A78288B59}
+	EndGlobalSection
+EndGlobal

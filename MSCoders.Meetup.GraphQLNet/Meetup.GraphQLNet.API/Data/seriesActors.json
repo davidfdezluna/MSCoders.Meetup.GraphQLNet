@@ -1,0 +1,1912 @@
+﻿[
+  {
+    "serieId": 1,
+    "actorId": 1,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 1,
+    "actorId": 2,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 1,
+    "actorId": 3,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 1,
+    "actorId": 4,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 1,
+    "actorId": 5,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 1,
+    "actorId": 6,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 1,
+    "actorId": 7,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 1,
+    "actorId": 8,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 1,
+    "actorId": 9,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 1,
+    "actorId": 10,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 1,
+    "actorId": 11,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 1,
+    "actorId": 12,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 1,
+    "actorId": 13,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 1,
+    "actorId": 14,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 10,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 13,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 2,
+    "actorId": 15,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 2,
+    "actorId": 16,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 17,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 18,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 19,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 2,
+    "actorId": 20,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 21,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 22,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 23,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 24,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 2,
+    "actorId": 25,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 3,
+    "actorId": 26,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 3,
+    "actorId": 27,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 3,
+    "actorId": 28,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 3,
+    "actorId": 29,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 3,
+    "actorId": 30,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 3,
+    "actorId": 31,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 3,
+    "actorId": 32,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 3,
+    "actorId": 33,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 3,
+    "actorId": 34,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 3,
+    "actorId": 35,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 3,
+    "actorId": 36,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 3,
+    "actorId": 37,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 3,
+    "actorId": 38,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 3,
+    "actorId": 39,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 4,
+    "actorId": 40,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 4,
+    "actorId": 41,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 4,
+    "actorId": 42,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 4,
+    "actorId": 43,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 4,
+    "actorId": 44,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 4,
+    "actorId": 45,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 4,
+    "actorId": 46,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 4,
+    "actorId": 47,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 4,
+    "actorId": 48,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 4,
+    "actorId": 49,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 4,
+    "actorId": 50,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 4,
+    "actorId": 51,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 52,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 5,
+    "actorId": 53,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 54,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 55,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 56,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 57,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 58,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 59,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 60,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 61,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 62,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 5,
+    "actorId": 63,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 64,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 65,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 66,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 67,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 68,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 69,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 70,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 71,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 5,
+    "actorId": 72,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 5,
+    "actorId": 73,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 5,
+    "actorId": 74,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 5,
+    "actorId": 75,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 76,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 77,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 5,
+    "actorId": 78,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 79,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 80,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 81,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 5,
+    "actorId": 82,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 5,
+    "actorId": 83,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 5,
+    "actorId": 84,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 85,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 5,
+    "actorId": 86,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 87,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 5,
+    "actorId": 88,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 5,
+    "actorId": 89,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 6,
+    "actorId": 90,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 6,
+    "actorId": 91,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 6,
+    "actorId": 92,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 6,
+    "actorId": 93,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 6,
+    "actorId": 94,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 6,
+    "actorId": 95,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 6,
+    "actorId": 96,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 6,
+    "actorId": 97,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 6,
+    "actorId": 98,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 6,
+    "actorId": 99,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 6,
+    "actorId": 100,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 7,
+    "actorId": 101,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 7,
+    "actorId": 102,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 7,
+    "actorId": 103,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 7,
+    "actorId": 104,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 7,
+    "actorId": 105,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 7,
+    "actorId": 106,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 7,
+    "actorId": 107,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 7,
+    "actorId": 108,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 7,
+    "actorId": 109,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 7,
+    "actorId": 110,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 7,
+    "actorId": 111,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 7,
+    "actorId": 112,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 7,
+    "actorId": 113,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 8,
+    "actorId": 15,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 114,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 8,
+    "actorId": 115,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 116,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 117,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 118,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 8,
+    "actorId": 119,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 120,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 121,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 122,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 8,
+    "actorId": 123,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 8,
+    "actorId": 124,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 125,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 8,
+    "actorId": 126,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 127,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 8,
+    "actorId": 128,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 8,
+    "actorId": 129,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 8,
+    "actorId": 130,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 131,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 132,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 133,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 134,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 135,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 136,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 137,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 138,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 139,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 140,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 9,
+    "actorId": 141,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 9,
+    "actorId": 142,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 9,
+    "actorId": 143,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 9,
+    "actorId": 144,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 9,
+    "actorId": 145,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 9,
+    "actorId": 146,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 9,
+    "actorId": 147,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 148,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 10,
+    "actorId": 149,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 150,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 151,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 152,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 153,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 154,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 155,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 156,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 157,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 158,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 159,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 160,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 161,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 162,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 163,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 164,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 10,
+    "actorId": 165,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 166,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 167,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 168,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 10,
+    "actorId": 169,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 170,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 171,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 172,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 173,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 174,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 175,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 176,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 177,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 178,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 179,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 180,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 181,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 182,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 183,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 184,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 185,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 186,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 187,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 188,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 189,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 190,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 191,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 192,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 193,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 194,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 10,
+    "actorId": 195,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 196,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 197,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 198,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 199,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 10,
+    "actorId": 200,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 201,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 202,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 203,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 204,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 205,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 206,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 207,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 208,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 209,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 210,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 211,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 212,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 213,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 214,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 215,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 10,
+    "actorId": 216,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 217,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 218,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 219,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 220,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 221,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 222,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 223,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 224,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 225,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 226,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 227,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 228,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 229,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 230,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 231,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 232,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 233,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 234,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 235,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 236,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 10,
+    "actorId": 237,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 238,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 239,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 240,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 241,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 10,
+    "actorId": 242,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 10,
+    "actorId": 243,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 11,
+    "actorId": 89,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 11,
+    "actorId": 190,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 11,
+    "actorId": 244,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 11,
+    "actorId": 245,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 11,
+    "actorId": 246,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 11,
+    "actorId": 247,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 11,
+    "actorId": 248,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 11,
+    "actorId": 249,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 11,
+    "actorId": 250,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 11,
+    "actorId": 251,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 11,
+    "actorId": 252,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 11,
+    "actorId": 253,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 12,
+    "actorId": 254,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 12,
+    "actorId": 255,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 12,
+    "actorId": 256,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 12,
+    "actorId": 257,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 12,
+    "actorId": 258,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 12,
+    "actorId": 259,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 12,
+    "actorId": 260,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 12,
+    "actorId": 261,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 12,
+    "actorId": 262,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 12,
+    "actorId": 263,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 12,
+    "actorId": 264,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 12,
+    "actorId": 265,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 266,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 13,
+    "actorId": 267,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 13,
+    "actorId": 268,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 13,
+    "actorId": 269,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 13,
+    "actorId": 270,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 271,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 272,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 273,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 274,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 275,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 276,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 277,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 278,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 279,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 13,
+    "actorId": 280,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 14,
+    "actorId": 281,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 14,
+    "actorId": 282,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 14,
+    "actorId": 283,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 14,
+    "actorId": 284,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 14,
+    "actorId": 285,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 14,
+    "actorId": 286,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 14,
+    "actorId": 287,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 14,
+    "actorId": 288,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 15,
+    "actorId": 289,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 290,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 291,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 292,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 293,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 294,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 295,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 296,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 15,
+    "actorId": 297,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 298,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 299,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 300,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 15,
+    "actorId": 301,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 15,
+    "actorId": 302,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 15,
+    "actorId": 303,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 15,
+    "actorId": 304,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 15,
+    "actorId": 305,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 16,
+    "actorId": 306,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 16,
+    "actorId": 307,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 16,
+    "actorId": 308,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 16,
+    "actorId": 309,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 16,
+    "actorId": 310,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 16,
+    "actorId": 311,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 16,
+    "actorId": 312,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 16,
+    "actorId": 313,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 16,
+    "actorId": 314,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 17,
+    "actorId": 1,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 4,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 17,
+    "actorId": 6,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 7,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 10,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 11,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 14,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 315,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 316,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 317,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 318,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 319,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 17,
+    "actorId": 320,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 321,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 17,
+    "actorId": 322,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 323,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 17,
+    "actorId": 324,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 18,
+    "actorId": 131,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 18,
+    "actorId": 325,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 18,
+    "actorId": 326,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 18,
+    "actorId": 327,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 18,
+    "actorId": 328,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 18,
+    "actorId": 329,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 18,
+    "actorId": 330,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 18,
+    "actorId": 331,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 18,
+    "actorId": 332,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 18,
+    "actorId": 333,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 18,
+    "actorId": 334,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 18,
+    "actorId": 335,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 18,
+    "actorId": 336,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 18,
+    "actorId": 337,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 18,
+    "actorId": 338,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 18,
+    "actorId": 339,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 18,
+    "actorId": 340,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 18,
+    "actorId": 341,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 18,
+    "actorId": 342,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 18,
+    "actorId": 343,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 18,
+    "actorId": 344,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 18,
+    "actorId": 345,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 18,
+    "actorId": 346,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 18,
+    "actorId": 347,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 19,
+    "actorId": 7,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 19,
+    "actorId": 318,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 19,
+    "actorId": 324,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 19,
+    "actorId": 348,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 19,
+    "actorId": 349,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 19,
+    "actorId": 350,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 19,
+    "actorId": 351,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 20,
+    "actorId": 7,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 20,
+    "actorId": 81,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 20,
+    "actorId": 320,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 20,
+    "actorId": 321,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 20,
+    "actorId": 352,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 20,
+    "actorId": 353,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 20,
+    "actorId": 354,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 21,
+    "actorId": 315,
+    "sortOrder": 1
+  },
+  {
+    "serieId": 21,
+    "actorId": 316,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 21,
+    "actorId": 319,
+    "sortOrder": 0
+  },
+  {
+    "serieId": 21,
+    "actorId": 321,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 21,
+    "actorId": 323,
+    "sortOrder": 2
+  },
+  {
+    "serieId": 21,
+    "actorId": 355,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 21,
+    "actorId": 356,
+    "sortOrder": 3
+  },
+  {
+    "serieId": 21,
+    "actorId": 357,
+    "sortOrder": 2
+  }
+]
